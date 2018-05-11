@@ -15,6 +15,7 @@ public class ProvaGit {
         System.out.println("Prova");
         System.out.println("Mes proves");
         System.out.println("Miquel");
+        System.out.println("Miquel ho ha llegit");
     }
     
 }
